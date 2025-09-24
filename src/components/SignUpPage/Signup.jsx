@@ -14,7 +14,7 @@ export default function Signup() {
               alt="arrow icon"
               onClick={() => navigate("/login")}
             />
-            <h2>Sing up</h2>
+            <h2>Sign up</h2>
           </div>
 
           <div className="loginPageSecondContainerDiv2">
@@ -48,3 +48,4 @@ export default function Signup() {
     </>
   );
 }
+
